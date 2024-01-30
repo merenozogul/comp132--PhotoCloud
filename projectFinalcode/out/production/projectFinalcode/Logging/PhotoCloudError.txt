@@ -1,0 +1,69 @@
+
+[Sun May 21 14:03:19 TRT 2023] [ERROR] Photo sharing failed., took: 1896 ms
+[Sun May 21 14:03:28 TRT 2023] [ERROR] Photo sharing failed., took: 1392 ms
+[Sun May 21 14:05:47 TRT 2023] [ERROR]   took: 9 ms
+[Sun May 21 21:29:09 TRT 2023] [ERROR] User not found, took: 3 ms
+[Sun May 21 22:44:10 TRT 2023] [ERROR] Password is wrong for erenJeager1 !, took: 11 ms
+[Mon May 22 13:08:21 TRT 2023] [ERROR] Password is wrong for leviAckerman4 !, took: 8 ms
+[Mon May 22 13:24:17 TRT 2023] [ERROR] Password is wrong for leviAckerman4 !, took: 8 ms
+[Wed May 24 11:59:51 TRT 2023] [ERROR] Password is wrong for leviAckerman4 !, took: 9 ms
+[Wed May 24 12:07:29 TRT 2023] [ERROR] Someone tried to sign up but faile due to this reasons:
+Name cannot be empty!
+Surname cannot be empty!
+Age cannot be empty!
+You need to choose user type!
+Nick name cannot be empty!
+Email cannot be empty!
+Your password must be longer than 8 characters!
+
+, took: 0 ms
+[Wed May 24 12:16:42 TRT 2023] [ERROR] sjf named user couldn't found., took: 1348 ms
+[Wed May 24 19:58:08 TRT 2023] [ERROR] Photo sharing failed., took: 9990 ms
+[Wed May 24 19:58:31 TRT 2023] [ERROR] Photo sharing failed., took: 11146 ms
+[Wed May 24 19:59:09 TRT 2023] [ERROR] sfs named user couldn't found., took: 984 ms
+[Wed May 24 20:01:02 TRT 2023] [ERROR]  named user couldn't found., took: 1101 ms
+[Wed May 24 22:38:14 TRT 2023] [ERROR] Password is wrong for erwinSmith6 !, took: 3 ms
+[Fri May 26 11:08:00 TRT 2023] [ERROR] Someone tried to sign up but failed due to this reasons:
+You need to choose user type!
+Nick name cannot be empty!
+Email cannot be empty!
+Your password must be longer than 8 characters!
+
+, took: 0 ms
+[Fri May 26 11:09:35 TRT 2023] [ERROR] Photo sharing failed., took: 4800 ms
+[Sun Jun 04 17:42:27 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 12 ms
+[Sun Jun 04 17:42:38 TRT 2023] [ERROR] User not found, took: 3 ms
+[Sun Jun 04 17:44:20 TRT 2023] [ERROR] leviAckerman4 tried to post a photo that is already posted name leviAckerman4_leviAckerman4_leviAckerman4_Saved_6_contrast_2.0_brightness_52.jpg., took: 1838 ms
+[Sat Jun 24 12:51:05 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 11 ms
+[Sun Jun 25 19:56:22 TRT 2023] [ERROR] jeanKristien9 named user couldn't found., took: 1069 ms
+[Wed Sep 20 19:38:35 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 6 ms
+[Wed Sep 20 19:38:50 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 4 ms
+[Wed Sep 20 19:40:49 TRT 2023] [ERROR] fkmdvl named user couldn't found., took: 1367 ms
+[Tue Oct 03 10:54:08 TRT 2023] [ERROR] User not found, took: 15 ms
+[Mon Oct 16 21:42:59 TRT 2023] [ERROR] User not found, took: 16 ms
+[Thu Nov 16 08:51:47 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 10 ms
+[Tue Dec 26 10:30:50 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 7 ms
+[Tue Dec 26 10:53:26 TRT 2023] [ERROR] Password is wrong for erenOzogul !, took: 26 ms
+[Thu Dec 28 11:10:14 TRT 2023] [ERROR] User not found, took: 13 ms
+[Thu Dec 28 19:56:18 TRT 2023] [ERROR] Someone tried to sign up but failed due to this reasons:
+Your age must be a number!
+You need to choose user type!
+Your email is invalid!
+Your password must be longer than 8 characters!
+
+, took: 0 ms
+[Thu Dec 28 20:36:54 TRT 2023] [ERROR] Someone tried to sign up but failed due to this reasons:
+Name cannot be empty!
+Surname cannot be empty!
+Age cannot be empty!
+You need to choose user type!
+File is not a recognized as an image file.
+Nick name cannot be empty!
+Email cannot be empty!
+Your password must be longer than 8 characters!
+
+, took: 0 ms
+[Thu Dec 28 20:37:36 TRT 2023] [ERROR] Photo sharing failed., took: 13753 ms
+[Tue Jan 02 20:46:47 TRT 2024] [ERROR] erenOzogul couldn't changed their age due to:
+Age cannot be that much!
+, took: 1825 ms

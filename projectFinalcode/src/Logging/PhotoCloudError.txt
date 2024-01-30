@@ -1,0 +1,16 @@
+
+[Tue Jan 30 16:15:24 TRT 2024] [ERROR] User not found, took: 4 ms
+[Tue Jan 30 16:15:56 TRT 2024] [ERROR] User not found, took: 5 ms
+[Tue Jan 30 16:19:08 TRT 2024] [ERROR] Someone tried to sign up but failed due to this reasons:
+Your age must be a number!
+Your password should include at least one lowercase letter!
+
+, took: 0 ms
+[Tue Jan 30 16:19:08 TRT 2024] [ERROR] Someone tried to sign up but failed due to this reasons:
+Your password should include at least one lowercase letter!
+
+, took: 0 ms
+[Tue Jan 30 16:24:49 TRT 2024] [ERROR] Someone tried to sign up but failed due to this reasons:
+Your password must be longer than 8 characters!
+
+, took: 0 ms

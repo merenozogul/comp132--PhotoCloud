@@ -1,0 +1,3 @@
+erenOzogul,Asd12345,erenozogul@gmail.com,Muhammet Eren,Ozogul,Administrator,./src/images/administratorpp.jpg,22
+aaa33,Aaabbb123,eren@gmail.com,aaa,bbb,Hobbyist,./src/Icons/DefaultProfilePhoto_128.png,12
+wmsksmks11,Aaasss123,aaa@gmail.com,aaa,aaa,Free,./src/Icons/DefaultProfilePhoto_128.png,10
